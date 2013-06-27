@@ -1,0 +1,27 @@
+﻿Build started 6/25/2013 10:09:21 AM.
+     1>Project "c:\Users\Hemin\documents\visual studio 2010\Projects\4\4\4.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "c:\users\hemin\documents\visual studio 2010\Projects\4\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\4.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt L4.cpp
+         L4.cpp
+     1>c:\users\hemin\documents\visual studio 2010\projects\4\4\l4.cpp(14): error C2380: type(s) preceding 'student' (constructor with return type, or illegal redefinition of current class-name?)
+     1>c:\users\hemin\documents\visual studio 2010\projects\4\4\l4.cpp(14): error C2208: 'student' : no members defined using this type
+     1>c:\users\hemin\documents\visual studio 2010\projects\4\4\l4.cpp(15): error C2059: syntax error : '.'
+     1>c:\users\hemin\documents\visual studio 2010\projects\4\4\l4.cpp(15): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\hemin\documents\visual studio 2010\projects\4\4\l4.cpp(23): error C2380: type(s) preceding 'course' (constructor with return type, or illegal redefinition of current class-name?)
+     1>c:\users\hemin\documents\visual studio 2010\projects\4\4\l4.cpp(23): error C2208: 'course' : no members defined using this type
+     1>c:\users\hemin\documents\visual studio 2010\projects\4\4\l4.cpp(25): error C2059: syntax error : '.'
+     1>c:\users\hemin\documents\visual studio 2010\projects\4\4\l4.cpp(27): error C2143: syntax error : missing ';' before '}'
+     1>c:\users\hemin\documents\visual studio 2010\projects\4\4\l4.cpp(27): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\hemin\documents\visual studio 2010\projects\4\4\l4.cpp(31): error C2380: type(s) preceding 'instructor' (constructor with return type, or illegal redefinition of current class-name?)
+     1>c:\users\hemin\documents\visual studio 2010\projects\4\4\l4.cpp(31): error C2208: 'instructor' : no members defined using this type
+     1>c:\users\hemin\documents\visual studio 2010\projects\4\4\l4.cpp(33): error C2059: syntax error : '.'
+     1>c:\users\hemin\documents\visual studio 2010\projects\4\4\l4.cpp(33): error C2238: unexpected token(s) preceding ';'
+     1>Done Building Project "c:\Users\Hemin\documents\visual studio 2010\Projects\4\4\4.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.93
