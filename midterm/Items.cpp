@@ -16,7 +16,8 @@ private:
 	double m_price;
 
 
-
+	// Incomplete solution.
+	
 
 
 
