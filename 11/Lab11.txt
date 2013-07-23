@@ -1,0 +1,10 @@
+﻿'Lab11.exe': Loaded 'C:\Users\Hemin\Documents\Visual Studio 2010\Projects\Lab11\Debug\Lab11.exe', Symbols loaded.
+'Lab11.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'Lab11.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'Lab11.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'Lab11.exe': Loaded 'C:\ProgramData\Norton\{0C55C096-0F1D-4F28-AAA2-85EF591126E7}\NIS_20.0.0.136\Definitions\BASHDefs\20130531.001\UMEngx86.dll', Cannot find or open the PDB file
+'Lab11.exe': Loaded 'C:\Windows\SysWOW64\msvcp100d.dll', Cannot find or open the PDB file
+'Lab11.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0x4cf0) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x485c) has exited with code 0 (0x0).
+The program '[17000] Lab11.exe: Native' has exited with code 0 (0x0).
